@@ -8,8 +8,6 @@
 
 
 
-- ###  如果是Mac可以直接下載執行檔  -->  [ [Chrome_Dino](https://github.com/iinoshirozheng/Qt_Chrome-Dino-Game/blob/master/Chrome_Dino) ]  
-
 
 
 這個遊戲做得小巧精緻，於是探究了一下它的源碼，發現代碼寫得相當嚴謹並且富有技巧性，所以用來學習再好不過了。
