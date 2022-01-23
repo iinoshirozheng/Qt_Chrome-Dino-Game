@@ -4,7 +4,7 @@
 
   眾所周知，Chrome瀏覽器在網絡不通的情況下，會出現一個霸王龍跳越障礙的小遊戲，我使用 Qt 寫了一個 MacOS 的版本： 
 
-  <img src="/Users/ray/Library/Application Support/typora-user-images/截圖 2022-01-24 上午2.43.15.png" alt="截圖 2022-01-24 上午2.43.15"  />
+  ![image](https://github.com/iinoshirozheng/Qt_Chrome-Dino-Game/commit/5be623feabcdeb38142b8ef1afe71d8d9ffd7d03)
 
 
 
