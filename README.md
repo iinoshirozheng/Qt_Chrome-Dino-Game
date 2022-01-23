@@ -8,7 +8,7 @@
 
 
 
-- ###  如果是Mac可以直接下載執行檔  -->  [ [Chrome_Dino](Chrome_Dino) ]  
+- ###  如果是Mac可以直接下載執行檔  -->  [ [Chrome_Dino](https://github.com/iinoshirozheng/Qt_Chrome-Dino-Game/blob/master/Chrome_Dino) ]  
 
 
 
